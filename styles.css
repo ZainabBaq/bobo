@@ -1,0 +1,23 @@
+.header {
+  border-radius: 8px;
+  height: 180px;
+  background-color: #f8eded;
+  margin: 15px 30px 15px 30px;
+}
+
+.border {
+  border: 3px solid #e4bad4;
+}
+
+.image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.color {
+  height: 80px;
+  border: 3px solid #e4bad4;
+  background-color: black;
+}
